@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class MyApp extends StatelessWidget {
-  MyApp({Key? key}) : super(key: key);
+class Insta extends StatelessWidget {
+  Insta({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     List<Widget> postlist = [
